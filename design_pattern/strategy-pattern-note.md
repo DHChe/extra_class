@@ -423,8 +423,6 @@ Duck에는 FlyBehavior와 QuackBehavior가 있다. 이러한 두 클래스를 �
 - 구성(Composition)은 행동을 변수(예: self.quack_behavior)에 담기 때문에 런타임 도중 다른 행동(변수 변경)이라는 명령이 있으면 행동을 변경할 수 있다.
 - 구성은 컴파일 시점에 변수가 있다는 사실만 받고 실행 시에 들어오는 변수에 따라 적용되는 **유연함**을 가지고 있다.
 
-
-
-
+![Task 1](task1.png)
 
 
